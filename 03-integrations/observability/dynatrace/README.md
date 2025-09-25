@@ -1,6 +1,6 @@
-# Amazon Bedrock Agent Integration with Dynatrace
+# Amazon Bedrock AgentCore Integration with Dynatrace
 
-This example contains a demo of a Personal Assistant Agent built on top of [Bedrock AgentCore Agents](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html).
+This example contains a demo of a Personal Assistant Agent deployed on [Bedrock AgentCore Runtime](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html).
 
 
 ## Prerequisites
